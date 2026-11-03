@@ -22,11 +22,7 @@ Haxe/hxcpp @:native bindings for [raylib](https://raylib.com).
 
 You can install it through `Haxelib`
 ```bash
-haxelib install raylib-hx
-```
-Or through `Git`, if you want the latest updates
-```bash
-haxelib git raylib-hx https://github.com/foreignsasquatch/raylib-hx.git
+haxelib git raylib-hx https://github.com/fsasquatch/raylib-hx.git
 ```
 
 ### Dependencies
