@@ -53,7 +53,3 @@ Check out the [Examples Folder](examples/) for some examples on how to use this 
 
 - Check [raylib-hx's LICENSE](./LICENSE) for more information.
 - Check [raylib's LICENSE](https://github.com/raysan5/raylib/blob/master/LICENSE) for more information.
-
-### Consider supporting
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W77EX85)
